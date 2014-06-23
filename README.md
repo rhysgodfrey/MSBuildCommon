@@ -1,9 +1,14 @@
 ﻿MSBuild Text Replacement Task
 =======================================
 
+[![Build status](https://ci.appveyor.com/api/projects/status/qfgwtdy3fekn2kfb)](https://ci.appveyor.com/project/rhysgodfrey/msbuildcommon)
+
 ## Introduction ##
 
 A MSBuild task to allow replacement of a string in a file with another value.
+
+## Download ##
+The latest version of the library can be downloaded from the [Latest Release Page](https://github.com/rhysgodfrey/MSBuildCommon/releases/latest).
 
 ## Usage ##
 
@@ -43,7 +48,7 @@ Then call the *TextReplacementTask* this takes several parameters described belo
 
 ## License ##
 
-This library is released under the *FreeBSD License*, see **LICENSE.txt** for more information.
+This library is released under the *FreeBSD License*, see **LICENSE.txt** for more information. Please fork this repository and create a Pull Request for any useful updates/enhancements.
 
 Blog: http://www.rhysgodfrey.co.uk
 
